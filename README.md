@@ -19,3 +19,5 @@
 -   📞  +7(900)-656-02-16
 -   ✉️  [leria.seagull@gmail.com](mailto:kvaratsheliamihail@yandex.ru)
 -   Telegram: @leraseagull
+
+api/pin?username=leraseagull&repo=github-readme-stats
