@@ -20,4 +20,4 @@
 -   ✉️  [leria.seagull@gmail.com](mailto:kvaratsheliamihail@yandex.ru)
 -   Telegram: @leraseagull
 
-api/pin?username=leraseagull&repo=github-readme-stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leraseagull&repo=github-readme-stats)](https://github.com/leraseagull/github-readme-stats)
