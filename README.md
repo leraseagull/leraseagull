@@ -7,17 +7,11 @@
 
 ### Технологии, которые я использую:
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- TypeScript
-- Git
-- БЭМ
-- Figma
-- Webpack
-- Sass
-- GitHub
+HTML5, CSS3, JavaScript, React, React Router, TypeScript, Webpack, Babel, ESLint, Stylelint, Prettier, Nginx, HTTP/HTTPS, Firebase, CI/CD, serviceworker, PWA (вывести сайт как мобильное приложение). 
+DevTools, Git, БЭМ, Figma, Верстка адаптивная, резиновая, семантическая, кроссбраузерная. 
+Доступность, производительность, локализация, авторизация. 
+UI-библиотеки (Bootstrap, MUI, Ant Design)
+
 
 #
 
